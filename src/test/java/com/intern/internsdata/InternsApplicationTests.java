@@ -1,4 +1,4 @@
-package com.infy.infyinterns;
+package com.intern.internsdata;
 
 import java.util.Optional;
 
@@ -18,7 +18,7 @@ import com.interns.service.ProjectAllocationService;
 import com.interns.service.ProjectAllocationServiceImpl;
 
 @SpringBootTest
-public class InfyInternsApplicationTests {
+public class InternsApplicationTests {
 
 	@Mock
 	private MentorRepository mentorRepository;
